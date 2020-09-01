@@ -1,0 +1,36 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+apply plugin: 'com.alibaba.arouter'
+buildscript {
+    apply from: 'versions.gradle'
+    repositories {
+        google()
+        maven { url 'https://maven.aliyun.com/repository/public/'}
+        maven{url "https://jitpack.io"}
+        mavenLocal()
+        mavenCentral()
+    }
+    dependencies {
+        classpath build_plugins.android_gradle
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
+        classpath "com.alibaba:arouter-register:1.0.2"
+        classpath 'com.jfrog.bintray.gradle:gradle-bintray-plugin:1.4'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        maven { url 'https://maven.aliyun.com/repository/public/'}
+        maven{url "https://jitpack.io"}
+        mavenLocal()
+        mavenCentral()
+    }
+    tasks.withType(Javadoc) {
+        options.addStringOption('Xdoclint:none', '-quiet')
+        options.addStringOption('encoding', 'UTF-8')
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,7 @@
+ext.isLibrary = true
+apply from: rootProject.file('lib.gradle')
+apply plugin: 'com.github.dcendents.android-maven'
+group = '513209188@qq.com'
+dependencies {
+    implementation project(':lib_adapter'), project(':lib_utils')
+}

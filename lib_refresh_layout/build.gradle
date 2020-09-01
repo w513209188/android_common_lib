@@ -1,0 +1,7 @@
+ext.isLibrary = true
+apply from: rootProject.file('lib.gradle')
+apply plugin: 'com.github.dcendents.android-maven'
+group = '513209188@qq.com'
+dependencies {
+    api([libs.support_v4, libs.recyclerview, libs.annotations,libs.design])
+}
