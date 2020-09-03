@@ -3,6 +3,8 @@ package com.wb.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.wb.lib_utils.utils.DataUtils;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
