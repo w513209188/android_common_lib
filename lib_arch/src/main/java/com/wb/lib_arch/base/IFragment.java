@@ -10,7 +10,6 @@ import com.wb.lib_arch.utils.AppManager;
 /**
  * Fragment 需实现
  *
- * @author yyx
  */
 public interface IFragment extends IView {
 

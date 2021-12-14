@@ -26,7 +26,7 @@ import java.util.Objects;
 /**
  * Description: BaseDialog
  *
- * @author : yyx
+ * @author : wb
  * @date ：2018/11/18
  */
 public abstract class BaseDialog extends AppCompatDialogFragment {

@@ -27,7 +27,7 @@ import java.lang.reflect.Method;
 /**
  * 状态栏工具
  *
- * @author yyx
+ * @author wb
  */
 public class StatusBarUtils implements Serializable {
 

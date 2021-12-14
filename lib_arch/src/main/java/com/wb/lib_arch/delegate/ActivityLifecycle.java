@@ -12,7 +12,7 @@ import com.wb.lib_arch.utils.AppManager;
 /**
  * Activity 注册监听生命周期
  *
- * @author yyx
+ * @author wb
  */
 public class ActivityLifecycle implements Application.ActivityLifecycleCallbacks {
 

@@ -28,7 +28,6 @@ RetentionPolicy.RUNTIME	注解不仅被保存到class文件中，jvm加载class�
 /**
  * 资源绑定
  *
- * @author yyx
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)

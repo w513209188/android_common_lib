@@ -28,7 +28,7 @@ import java.util.UUID;
 /**
  * 懒加载
  *
- * @author yyx
+ * @author wb
  */
 public abstract class BaseFragment extends Fragment implements IFragment {
 

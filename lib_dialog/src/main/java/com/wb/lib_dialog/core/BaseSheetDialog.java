@@ -26,7 +26,7 @@ import java.util.Objects;
 /**
  * Description: BaseSheetDialog
  *
- * @author : yyx
+ * @author : wb
  * @date ：2018/11/18
  */
 public abstract class BaseSheetDialog extends BaseDialog {

@@ -8,7 +8,6 @@ import java.lang.annotation.RetentionPolicy;
 /**
  * 侧滑 注解
  *
- * @author yyx
  */
 @IntDef({SwipeStyle.FULL, SwipeStyle.EDGE, SwipeStyle.NONE})
 @Retention(RetentionPolicy.SOURCE)

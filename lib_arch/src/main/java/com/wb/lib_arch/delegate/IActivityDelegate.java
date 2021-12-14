@@ -9,7 +9,6 @@ import com.wb.lib_utils.interfaces.ILifecycle;
 
 
 /**
- * @author yyx
  */
 public interface IActivityDelegate extends ILifecycle {
 

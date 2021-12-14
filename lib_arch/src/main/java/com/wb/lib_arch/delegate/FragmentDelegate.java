@@ -34,7 +34,6 @@ import java.util.Objects;
 /**
  * Fragment 代理
  *
- * @author yyx
  */
 public class FragmentDelegate implements DefaultLifecycleObserver {
 

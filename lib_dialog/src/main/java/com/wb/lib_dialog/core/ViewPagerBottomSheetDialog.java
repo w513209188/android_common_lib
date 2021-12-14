@@ -25,7 +25,7 @@ import com.wb.lib_dialog.R;
 /**
  * Description: ViewPagerBottomSheetDialog
  *
- * @author : yyx
+ * @author : wb
  * @date ：2018/11/18
  */
 public class ViewPagerBottomSheetDialog extends AppCompatDialog {

@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * Fragment快速实现懒加载的代理类
  *
- * @author yyx
  */
 public class FragmentLazyDelegate {
 

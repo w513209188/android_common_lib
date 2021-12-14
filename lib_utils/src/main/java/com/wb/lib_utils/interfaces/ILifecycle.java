@@ -27,7 +27,7 @@ import android.arch.lifecycle.LifecycleObserver;
  * 移除 {@link Lifecycle#removeObserver(LifecycleObserver)}
  * 当前状态 {@link Lifecycle#getCurrentState()}
  *
- * @author yyx
+ * @author wb
  */
 public interface ILifecycle extends DefaultLifecycleObserver {
 }

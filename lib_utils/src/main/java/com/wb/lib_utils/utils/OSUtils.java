@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 /**
  * 手机系统判断
  *
- * @author yyx
+ * @author wb
  */
 public class OSUtils {
 

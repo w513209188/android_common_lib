@@ -26,7 +26,6 @@ import java.util.Objects;
 /**
  * Activity 代理
  *
- * @author yyx
  */
 public class ActivityDelegate implements DefaultLifecycleObserver {
 

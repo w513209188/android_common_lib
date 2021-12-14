@@ -5,7 +5,7 @@ import android.view.View;
 /**
  * 选择回调
  *
- * @author yyx
+ * @author wb
  */
 public interface OnSelectListener {
 

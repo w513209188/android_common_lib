@@ -16,7 +16,7 @@ import java.lang.reflect.ParameterizedType;
 /**
  * app 管理
  *
- * @author yyx
+ * @author wb
  */
 @SuppressWarnings("rawtypes")
 public final class AppConfig implements Serializable {

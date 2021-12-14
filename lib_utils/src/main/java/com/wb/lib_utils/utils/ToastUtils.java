@@ -23,7 +23,7 @@ import java.io.Serializable;
 /**
  * 自定义Toast
  *
- * @author yyx
+ * @author wb
  */
 public class ToastUtils implements Serializable {
     private static final @ColorInt

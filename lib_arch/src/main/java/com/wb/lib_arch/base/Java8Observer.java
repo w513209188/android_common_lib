@@ -11,7 +11,6 @@ import java.io.Serializable;
 /**
  * 打印页面生命周期
  *
- * @author yyx
  */
 public class Java8Observer implements ILifecycle, Serializable {
 

@@ -8,7 +8,6 @@ import java.lang.annotation.RetentionPolicy;
 /**
  * 状态栏文字颜色
  *
- * @author yyx
  */
 @IntDef({BarStyle.DARK_CONTENT, BarStyle.LIGHT_CONTENT, BarStyle.NONE})
 @Retention(RetentionPolicy.SOURCE)

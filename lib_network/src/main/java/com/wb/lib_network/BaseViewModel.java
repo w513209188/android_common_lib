@@ -62,7 +62,7 @@ public abstract class BaseViewModel extends ViewModel implements DefaultLifecycl
                             onHandleException.success(t);
                         } else {
                             status.postValue(Status.ERROR);
-                            onHandleException.error(t.getCode());
+                            onHandleException.error(t.getMsg());
                         }
                     }
 

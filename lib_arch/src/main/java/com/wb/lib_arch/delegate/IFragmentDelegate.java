@@ -9,7 +9,7 @@ import android.view.View;
 import com.wb.lib_utils.interfaces.ILifecycle;
 
 /**
- * @author yyx
+ * @author wb
  */
 public interface IFragmentDelegate extends ILifecycle {
 

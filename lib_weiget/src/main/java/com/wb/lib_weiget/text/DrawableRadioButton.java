@@ -31,7 +31,7 @@ import com.wb.lib_weiget.R;
 /**
  * 可以调节drawable大小的RadioButton
  *
- * @author yyx
+ * @author wb
  */
 @SuppressLint("AppCompatCustomView")
 public class DrawableRadioButton extends RadioButton {

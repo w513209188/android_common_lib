@@ -10,7 +10,7 @@ import com.wb.lib_arch.utils.AppManager;
 /**
  * Activity 需实现
  *
- * @author yyx
+ * @author wb
  */
 public interface IActivity extends IView {
 

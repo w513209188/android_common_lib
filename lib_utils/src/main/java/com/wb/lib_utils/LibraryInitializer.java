@@ -15,7 +15,7 @@ import com.wb.lib_utils.utils.log.LogUtils;
 /**
  * 使用ContentProvider初始化三方库
  *
- * @author yyx
+ * @author wb
  */
 public class LibraryInitializer extends ContentProvider {
     @Override

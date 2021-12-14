@@ -35,7 +35,7 @@ import java.util.List;
 
 /**
  * 具有标签功能的流式布局.
- * @author yyx
+ * @author wb
  */
 public class FlowlayoutTags extends ViewGroup {
     private final int default_text_color = Color.parseColor("#333333");

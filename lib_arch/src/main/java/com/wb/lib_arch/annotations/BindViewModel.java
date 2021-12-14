@@ -8,7 +8,6 @@ import java.lang.annotation.Target;
 /**
  * 绑定 {@link android.arch.lifecycle.ViewModel}
  *
- * @author yyx
  */
 @Target(ElementType.FIELD)
 @Retention(RetentionPolicy.RUNTIME)

@@ -8,7 +8,6 @@ import com.wb.lib_utils.interfaces.ILifecycle;
 /**
  * Activity 、Fragment
  *
- * @author yyx
  */
 public interface IView extends ILifecycle {
 

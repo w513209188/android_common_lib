@@ -15,7 +15,6 @@ import com.wb.lib_arch.utils.AppManager;
 /**
  * Fragment 注册生命周期监听
  *
- * @author yyx
  */
 public class FragmentLifecycle extends FragmentManager.FragmentLifecycleCallbacks {
 

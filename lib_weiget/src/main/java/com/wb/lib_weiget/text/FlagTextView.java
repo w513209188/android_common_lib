@@ -24,7 +24,7 @@ import java.lang.reflect.Field;
 /**
  * 文字前面含有标签的TextView
  *
- * @author yyx
+ * @author wb
  */
 public class FlagTextView extends View {
 

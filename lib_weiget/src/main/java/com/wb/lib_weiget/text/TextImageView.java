@@ -23,7 +23,7 @@ import com.wb.lib_weiget.R;
 /**
  * TextView 中drawable 图片大小
  *
- * @author yyx
+ * @author wb
  */
 @SuppressLint("AppCompatCustomView")
 public class TextImageView extends TextView {

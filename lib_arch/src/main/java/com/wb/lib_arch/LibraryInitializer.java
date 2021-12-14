@@ -15,7 +15,6 @@ import com.wb.lib_utils.AppConfig;
 /**
  * 使用ContentProvider初始化三方库
  *
- * @author yyx
  */
 public class LibraryInitializer extends ContentProvider {
     @Override

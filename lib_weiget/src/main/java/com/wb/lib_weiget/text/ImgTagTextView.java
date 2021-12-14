@@ -24,7 +24,7 @@ import java.lang.reflect.Field;
 /**
  * 文字前面含有图片的TextView
  *
- * @author yyx
+ * @author wb
  */
 public class ImgTagTextView extends View {
 
